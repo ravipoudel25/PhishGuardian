@@ -1,0 +1,58 @@
+Index,UsingIP,LongURL,ShortURL,Symbol@,Redirecting//,PrefixSuffix-,
+SubDomains,HTTPS,DomainRegLen,Favicon,NonStdPort,HTTPSDomainURL,RequestURL,
+AnchorURL,LinksInScriptTags,ServerFormHandler,InfoEmail,AbnormalURL,WebsiteForwarding,
+StatusBarCust,DisableRightClick,UsingPopupWindow,IframeRedirection,AgeofDomain,DNSRecording,WebsiteTraffic,
+PageRank,GoogleIndex,LinksPointingToPage,StatsReport,class
+
+
+
+
+['index','','','','','',
+ '','having_Sub_Domain'
+ ,'SSLfinal_State',
+ 'Domain_registeration_length'
+ ,'Favicon',
+ 'port','',
+ 'Request_URL',
+ 'URL_of_Anchor'
+ ,'Links_in_tags'
+ ,'SFH'
+ ,'Submitting_to_email'
+ ,'Abnormal_URL',
+  '',
+  'on_mouseover',
+ '',
+ 'popUpWidnow',
+ '','',
+ 'DNSRecord',
+ 'web_traffic'
+ ,'Page_Rank',
+ 'Google_Index',
+ 'Links_pointing_to_page',
+  'Statistical_report','']
+
+
+
+SUSPICIOUS URLS:
+
+http://www2.nationalgeographic.com
+http://gmai2l.com
+https://gmai2l.com
+https://www.gmai2l.com
+www.gmai2l.com
+https://shoot-yalla.io/
+http://bms@it//login//credentials//
+
+SAFE:
+https://bmsitm.gnums.in
+www.google.com
+bmsit.ac.in
+https://play.google.com/store/apps
+https://takeiteasyengineers.com/
+https://docs.google.com/document/u/0/?tgif=d
+https://docs.google.com/presentation
+https://totalsportek.pro/
+https://drive.google.com/drive/home
+https://classroom.google.com/
+https://ieeexplore.ieee.org/document/10183483
+https://www.udemy.com/
